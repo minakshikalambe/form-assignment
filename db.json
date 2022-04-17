@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nitu",
+      "age": 23,
+      "email": "abdf@123",
+      "address": "asfhhk"
+    },
+    {
+      "username": "",
+      "age": "",
+      "email": "",
+      "address": "",
+      "id": 2
+    },
+    {
+      "1": "2",
+      "username": "",
+      "age": "",
+      "email": "",
+      "address": "",
+      "v": "t",
+      "id": 3
+    }
+  ]
+}
